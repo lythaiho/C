@@ -27,7 +27,6 @@ namespace T1904a
                 Console.WriteLine("So fibonacci gan nhat");
                     Console.WriteLine(n3); break;
             }
-         //   return true;
         }
     }
 }

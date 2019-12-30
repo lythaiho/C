@@ -39,7 +39,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assignment1.cs" />
+    <None Include="Assignment1.cs" />
+    <Compile Include="Asian.cs" />
+    <Compile Include="Human.cs" />
+    <Compile Include="IHuman.cs" />
+    <Compile Include="Session2.cs" />
+    <None Include="SoNguyenTo.cs" />
     <None Include="Prime.cs" />
     <None Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

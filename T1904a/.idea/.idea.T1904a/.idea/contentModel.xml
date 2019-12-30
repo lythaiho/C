@@ -2,18 +2,23 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\lytha\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\lytha\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_T1904a.2019191322.00" t="ExcludeRecursive" />
-    <e p="D:\C#\T1904a" t="IncludeFlat">
+    <e p="C:\Users\lytha\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_T1904a.596734241.00" t="ExcludeRecursive" />
+    <e p="D:\C#\C\T1904a" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="T1904a" t="IncludeRecursive">
+        <e p="Asian.cs" t="Include" />
         <e p="Assignment1.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Human.cs" t="Include" />
+        <e p="IHuman.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Prime.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
+        <e p="Session2.cs" t="Include" />
+        <e p="SoNguyenTo.cs" t="Include" />
         <e p="T1904a.csproj" t="IncludeRecursive" />
       </e>
       <e p="T1904a.sln" t="IncludeFlat" />

@@ -6,7 +6,7 @@ namespace T1904a.Patical
     {
         public MobilePhone()
         {
-            this.phoneType ="mMbile";
+            this.phoneType ="Mobile";
         }
 
         public MobilePhone(string phoneName, string phoneType, float phonePrice)
